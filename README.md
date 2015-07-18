@@ -8,3 +8,5 @@ Projet de test et doc documentation
 tentative de commit et puch 
 >>>>>>> Stashed changes
 Ajouter blabla pour commiter et pucher
+
+Ajouter encore blabla pour commiter et recupérer en local
